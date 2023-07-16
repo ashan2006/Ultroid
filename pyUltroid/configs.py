@@ -38,7 +38,7 @@ class Var:
 )
     )
     # extras
-    BOT_TOKEN = config("BOT_TOKEN", default=None)
+    BOT_TOKEN = config("BOT_TOKEN", default=5535504594:AAHNwXJSxQOHPiX0Y0Rb_AHcZdyryfOtMzI)
     LOG_CHANNEL = config("LOG_CHANNEL", default=0, cast=int)
     HEROKU_APP_NAME = config("HEROKU_APP_NAME", default=None)
     HEROKU_API = config("HEROKU_API", default=None)
